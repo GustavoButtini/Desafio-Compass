@@ -1,0 +1,14 @@
+.cabecalho{
+    text-align: center;
+    font-size: 28px;
+    font-family: 'Times New Roman';
+    object-position: top;
+    margin: 0 auto;
+    top: 0;
+    width: 100%;
+}
+
+.botaohome{
+    padding: 35px,35px;
+    width: 100px;
+}

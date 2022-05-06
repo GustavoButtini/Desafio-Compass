@@ -1,0 +1,56 @@
+.botaofav{
+    font-size: 18px;
+    width: 250px;
+    height: 100px;
+    color: black; 
+    transition: 1s;
+    margin-bottom: 50px;
+}
+
+.botaofav:hover{
+    color: white;
+    background-color: green;
+    transition: 1s;
+}
+
+.alinhamento{
+    margin: 0 auto;
+    max-width: 400px;
+}
+
+.text{
+    text-align: center;
+    font-family: arial;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.favrep{
+    margin-top: 50px;
+    padding: 5,5,5,5;
+}
+
+.linkfavrep{
+    text-decoration: none;
+    font-size: 20px;
+    color: blue;
+    transition: 1s
+}
+
+.linkfavrep:hover{
+    font-size: 28px;
+    color: green;
+    transition: 1s;
+}
+
+.linkfavrep:visited{
+    color: red;
+    transition: 1s;
+}
+
+.linkfavrep:visited:hover{
+    font-size: 28px;
+    color: Green;
+    transition: 1s;
+}

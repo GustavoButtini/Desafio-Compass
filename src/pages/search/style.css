@@ -1,0 +1,78 @@
+.titulo{
+    text-align: center;
+    font-family: arial;
+
+    margin: 0 auto;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.input{
+    align-items: center;
+    align-self: center;
+    height: 20px;
+    text-align: center;
+    margin: auto;
+    display: block;
+    font-size: 18px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    transition: 1s;
+}
+
+.input:hover{
+    width: 500px;
+    height: 30px;
+    transition: 1s;
+    margin: 50px, 50px;
+    padding: 50px, 50px;
+}
+
+.botao{
+    height: 50px;
+    width: 12%;
+    margin: auto;
+    display: block;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    transition: 2s;
+
+}
+
+.botao:hover{
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 50px;    
+    background-color: rgb(31, 230, 31);
+    display: block;
+    transition: 2s;
+}
+
+.usuarioGitHub{
+    align-items: center;
+    text-align: center;
+    font-size: 18px;
+    background-color: #ddd;
+    padding: 10px,10px,10px,10px;
+    transition: 1s;
+}
+
+.usuarioGitHub:hover{
+    background-color: green;
+    font-size: 22px;
+    transition: 1s;
+}
+
+.imageGitUser{
+    text-align: center;
+    border-width: 10px;
+    border-radius: 10px;
+    transition: 1s;
+}
+
+.imageGitUser:hover{
+    width: 200px;
+    height: 200px;
+    transition: 1s;
+}

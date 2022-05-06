@@ -1,0 +1,77 @@
+.titulo{
+    text-align: center;
+    font-family: arial;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    transition: 1.5s;
+}
+
+.alinhamentobotao{
+    margin: 0 auto;
+    max-width: 630px;
+}
+
+.button{
+    font-size: 12px;
+    width: 250px;
+    height: 100px;
+    margin-right: 25px;
+    margin-left: 25px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    transition: 1.5s;
+    display: inline;
+    left: 0;
+}
+
+.button:hover{
+    margin-left: 50;
+    margin-left: 25px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    color: white;
+    background-color: green;
+    display: inline;
+}
+.botao_proximapagina{
+    align-items: right;
+    font-size: 18;
+    width: 250px;
+    height: 100px;
+    margin-right: 25px;
+    margin-left: 25px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    transition: 1.5s;
+    display: inline;
+    right: 0;
+}
+
+.botao_proximapagina:hover{
+    margin-left: 50;
+    margin-left: 25px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    color: white;
+    background-color: blue;
+    display: inline;
+    right: 0;
+}
+
+.linkrepos{
+    color: blue;
+    font-size: 20px;
+}
+
+.linkrepos:visited{
+    color: green;
+    text-decoration: none;
+    
+}
+
+.CaixaRepos{
+    width: 200px;
+    height: 30px;
+    display: flex;
+}
